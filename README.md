@@ -5,4 +5,6 @@ Initial E-Commerce Profitability Analysis, develop a basic profitability set of 
 
 Account Profitability and Service Tiers, determine which FY2026 account service policy change Southwest Office Solutions should prioritize to improve account profitability, [a link to your published Tableau workbook](https://public.tableau.com/views/AdvancinginExcelandTableau-Pt_2_17899784803710/AccountPortfolioDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link), if I were doing this again, I'd further refine the Account Portfolio dashboard by cleaning up the individual visuals, centering and emphasizing the chart titles, and increasing text contrast to better distinguish key information from the background. For the Inside Sales analysis, I'd divide accounts into smaller revenue bands, such as $1,000 increments, to compare Gross Profit and Cost to Serve within different portions of the tier. This would help determine whether the negative Net Contribution is consistent throughout Inside Sales or driven primarily by particular revenue ranges.
 
-course name, the date you completed it, https://public.tableau.com/views/PowerBITrainingCertifications_17903801267200/PowerBIStory?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+Introduction to Power BI, Completed September 25, 2026, https://public.tableau.com/views/PowerBITrainingCertifications_17903801267200/PowerBIStory?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+
