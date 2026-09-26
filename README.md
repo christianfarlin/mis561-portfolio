@@ -7,4 +7,7 @@ Account Profitability and Service Tiers, determine which FY2026 account service 
 
 Introduction to Power BI, Completed September 25, 2026, https://public.tableau.com/views/PowerBITrainingCertifications_17903801267200/PowerBIStory?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
+Power BI Automates Data Relationships and Reduces Manual Setup
+
+Power BI automatically detects relationships between related tables based on common fields or columns, whereas in Excel I previously had to manually match records and use lookup formulas such as VLOOKUP or XLOOKUP to bring related data together. Tableau made relationships more explicit, but I still had to identify the common fields and define how the datasets should be connected myself. For this type of task, I would choose Power BI because its automatic relationship detection reduces the manual work required to connect multiple tables while also reducing the opportunity for human error during the relationship-building process. This makes data preparation more efficient and helps avoid incorrectly connecting tables, which could affect the accuracy of the resulting analysis. However, I would still review Power BI’s automatically detected relationships to verify that it selected the appropriate fields and relationship structure, and manually modify or add relationships when necessary.
 
