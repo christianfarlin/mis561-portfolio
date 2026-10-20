@@ -40,7 +40,6 @@ https://chatgpt.com/share/6acdcebd-ac60-83e8-adfa-d4b3a7ea1d88
 
 I used ChatGPT on October 12, 2026, to refine and condense my independently developed business intelligence analysis into a 238-word statement while preserving my original examples, technical reasoning, and recommendations. I also used it to verify alignment with the assignment requirements.
 
-the assignment name, the business question in one sentence, [Card Portfolio Review – Contactless Readiness ](https://public.tableau.com/views/CardPortfolioReviewContactlessReadiness_17923891946810/ExploratoryDash?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) , and one thing you would change if you
-did it again.
+Card Portfolio Review - Contactless Readiness, which non-contactless cards should Bear Down Bank prioritize for early replacement, and how many cards and what estimated cost would that recommendation involve, [Card Portfolio Review – Contactless Readiness ](https://public.tableau.com/views/CardPortfolioReviewContactlessReadiness_17923891946810/ExploratoryDash?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) , if I completed this assignment again, I would spend more time standardizing the formatting across all three dashboards, particularly the titles, navigation buttons, spacing, and overall layout, to create a more consistent and cohesive viewing experience.
 
 
