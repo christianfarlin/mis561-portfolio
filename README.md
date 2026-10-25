@@ -42,4 +42,5 @@ I used ChatGPT on October 12, 2026, to refine and condense my independently deve
 
 Card Portfolio Review - Contactless Readiness, which non-contactless cards should Bear Down Bank prioritize for early replacement, and how many cards and what estimated cost would that recommendation involve, [Card Portfolio Review – Contactless Readiness ](https://public.tableau.com/views/CardPortfolioReviewContactlessReadiness_17923891946810/ExploratoryDash?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) , if I completed this assignment again, I would spend more time standardizing the formatting across all three dashboards, particularly the titles, navigation buttons, spacing, and overall layout, to create a more consistent and cohesive viewing experience.
 
+the assignment name, the business question in one sentence, [Card Growth Analysis – Wildcat Rewards Offer](https://public.tableau.com/views/CardGrowthAnalysisWildcatRewardsOffer_17929545140900/ExploratoryDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link), and one thing you would change if you did it again.
 
