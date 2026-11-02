@@ -44,3 +44,23 @@ I used ChatGPT on October 12, 2026, to refine and condense my independently deve
 
 **Card Growth Analysis** – Wildcat Rewards Offer, which customer group should Bear Down Bank prioritize for its initial Wildcat Rewards Card pre-approved offer pilot, and how many customers in that group meet the eligibility requirements, [Card Growth Analysis – Wildcat Rewards Offer](https://public.tableau.com/views/CardGrowthAnalysisWildcatRewardsOffer_17929545140900/ExploratoryDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link), if I completed this assignment again, I would explore additional customer segments based on FICO score bands, generation, and geography to determine whether a more targeted pilot group could improve upon the state-level recommendation.
 
+**Nov 1, 2026 · Data Storytelling with Adobe Express**
+
+Work sample prepared by Farlin Intelligence for the Chief Financial Officer (CFO) of Southwest Office Solutions: prioritize the **Tables** product subcategory for **pricing and discount review** because it has the **lowest profit margin (-8.46%)** and **largest dollar loss (-$16,937.44)** out of all 17 subcategories, while evaluating demand and costs before considering discontinuation.
+
+[Work Sample (PDF) Link](https://github.com/christianfarlin/mis561-portfolio/blob/main/adobe/farlin-data-storytelling.pdf)
+
+[Adobe Express Link](https://new.express.adobe.com/id/urn:aaid:sc:US:adc0ba4f-2739-4643-ab5a-cdc0770d01db?accept=true&invite=true&promoid=Z2G1FQKR&mv=other )
+
+Design choice: I selected a vertical profit-margin bar chart for Southwest Office Solutions' CFO instead of a total-profit chart because margins allow consistent comparisons across different sales volumes, whereas the wide range of dollar profits and losses made smaller bars difficult to distinguish when identifying subcategories for pricing and discount review. I narrowed the chart from 17 subcategories to 5, retaining 2 profitable comparisons and all 3 unprofitable subcategories to highlight the transition to negative margins, while separately displaying Tables' exact −$16,937.44 loss to communicate its financial impact. In my initial Adobe Express chart, displaying the subcategory labels required visible axes and gridlines, so I removed those elements and manually recreated the labels and zero baseline, producing a cleaner chart that helps the CFO distinguish positive from negative margins and identify priorities for review.
+
+Training completed: Oct 31, 2026
+
+OpenAI. (2026). *ChatGPT* (GPT-6) [Large Language Model].
+https://chatgpt.com/share/6ae7e408-5d4c-83e8-9466-e8e950c06b9c
+
+I used ChatGPT (GPT-6) on October 31, 2026, to generate and refine several logo concepts for my fictional AI consulting firm, Farlin Intelligence. After selecting my preferred design, I used ChatGPT to create transparent-background versions of the logo for integration into my Adobe Express executive brief. On November 1, 2026, I returned to the same ChatGPT conversation to condense and refine my independently developed design justification, ensuring that it clearly explained my visualization decisions, addressed the assignment requirements, and remained within the required 2–3 sentences.
+
+
+
+
