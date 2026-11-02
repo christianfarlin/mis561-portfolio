@@ -50,9 +50,11 @@ Work sample prepared by Farlin Intelligence for the Chief Financial Officer (CFO
 
 [Work Sample (PDF) Link](https://github.com/christianfarlin/mis561-portfolio/blob/main/adobe/farlin-data-storytelling.pdf)
 
-[Adobe Express Link](https://new.express.adobe.com/id/urn:aaid:sc:US:adc0ba4f-2739-4643-ab5a-cdc0770d01db?accept=true&invite=true&promoid=Z2G1FQKR&mv=other )
+[Adobe Express Link](https://new.express.adobe.com/publishedV2/urn:aaid:sc:US:b796a3f2-e878-5253-9e22-fcde8dde01fe?promoid=Y69SGM5H&sdid=C4SZ2FYJ&mv=other)
 
 Design choice: I selected a vertical profit-margin bar chart for Southwest Office Solutions' CFO instead of a total-profit chart because margins allow consistent comparisons across different sales volumes, whereas the wide range of dollar profits and losses made smaller bars difficult to distinguish when identifying subcategories for pricing and discount review. I narrowed the chart from 17 subcategories to 5, retaining 2 profitable comparisons and all 3 unprofitable subcategories to highlight the transition to negative margins, while separately displaying Tables' exact −$16,937.44 loss to communicate its financial impact. In my initial Adobe Express chart, displaying the subcategory labels required visible axes and gridlines, so I removed those elements and manually recreated the labels and zero baseline, producing a cleaner chart that helps the CFO distinguish positive from negative margins and identify priorities for review.
+
+Brand Identity and Positioning: I created Farlin Intelligence as a fictional AI consulting firm with the positioning statement, "Farlin Intelligence helps businesses turn complex data into actionable insights through AI-driven analytics, clear visualizations, and practical technology consulting." To establish a consistent visual identity, I configured a custom Adobe Express color palette using dark navy (#0B1020), cyan (#00D9FF), and light gray-white (#F2F7FC), complemented by a custom human-and-AI logo and Roboto typeface. I verified the palette's accessibility using WebAIM's Contrast Checker, confirming that cyan on navy (11.15:1) and light gray-white on navy (17.56:1) both exceed WCAG AAA text-contrast requirements.
 
 Training completed: Oct 31, 2026
 
