@@ -63,6 +63,20 @@ https://chatgpt.com/share/6ae7e408-5d4c-83e8-9466-e8e950c06b9c
 
 I used ChatGPT (GPT-6) on October 31, 2026, to generate and refine several logo concepts for my fictional AI consulting firm, Farlin Intelligence. After selecting my preferred design, I used ChatGPT to create transparent-background versions of the logo for integration into my Adobe Express executive brief. On November 1, 2026, I returned to the same ChatGPT conversation to condense and refine my independently developed design justification, ensuring that it clearly explained my visualization decisions, addressed the assignment requirements, and remained within the required 2–3 sentences.
 
+**November 15, 2026 · Product Pitch with Generative AI in Adobe Express**
+
+Pitch to Marcus Reyes, VP of Sales at Southwest Office Solutions: approve an initial two-week diagnostic of Tables profitability in the East region, with subsequent phases requiring separate approval.
+
+[Link to Pitch Deck (PDF)](https://github.com/christianfarlin/mis561-portfolio/blob/main/adobe/farlin-product-pitch.pdf)
+
+[Link to Pitch Deck (Adobe Express)](https://new.express.adobe.com/publishedV2/urn:aaid:sc:US:f69fb840-a5d1-51aa-96bb-9d0041a734bd?promoid=Y69SGM5H&sdid=C4SZ2FYJ&mv=other)
+
+**Toughest objection:** "We already know Tables loses money. Why invest in more analysis without knowing whether it will lead to meaningful improvements?" Slide 7 addresses this concern by proposing a focused two-week diagnostic rather than an immediate pricing overhaul. The diagnostic compares the East and Central regions, which generate comparable Tables revenue despite a $6,528.44 difference in losses, to investigate potential causes before recommending further action.
+
+**AI use:** OpenAI ChatGPT (GPT-6), November 6–16, 2026: Used as a brainstorming, drafting, and feedback tool to help develop and refine presentation ideas, language, and content across all eight slides. Although ChatGPT suggested initial ideas, wording improvements, and recommendations, I independently reviewed, modified, and finalized the content included in the presentation. All data and calculations came from my earlier coursework using the provided Flex 3 dataset and subsequent Tableau analysis, without AI-generated data or findings. Slide 4 adapts my Flex 10 work sample and its findings to the presentation's design, while Slide 5 incorporates findings calculated in Tableau and a chart I recreated in Adobe Express. I personally constructed the slide layouts, charts, callouts, and other visual elements using Adobe Express. I chose not to use Adobe Firefly because AI-generated imagery did not align with my preferred presentation style, which emphasizes simple, accessible visuals that clearly communicate each slide's key message.
+
+**Training completed:** November 15, 2026
+
 
 
 
