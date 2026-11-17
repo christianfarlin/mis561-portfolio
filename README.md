@@ -65,7 +65,7 @@ I used ChatGPT (GPT-6) on October 31, 2026, to generate and refine several logo 
 
 **November 15, 2026 · Product Pitch with Generative AI in Adobe Express**
 
-Pitch to Marcus Reyes, VP of Sales at Southwest Office Solutions: approve an initial two-week diagnostic of Tables profitability in the East region, with subsequent phases requiring separate approval.
+Pitch to the CFO of Southwest Office Solutions: approve an initial two-week diagnostic of Tables profitability in the East region, with subsequent phases requiring separate approval.
 
 [Link to Pitch Deck (PDF)](https://github.com/christianfarlin/mis561-portfolio/blob/main/adobe/farlin-product-pitch.pdf)
 
